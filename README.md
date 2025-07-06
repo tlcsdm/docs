@@ -9,3 +9,4 @@
   * [4.1.0](docs/extjs/4.1.0)
 * [javassist](docs/javassist)
   * [2](docs/javassist/2)
+* [eclipse-copyright](docs/eclipse-copyright)
